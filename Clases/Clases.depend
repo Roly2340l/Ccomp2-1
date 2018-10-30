@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1540892640 source:/home/ucsp/Escritorio/Clases/main.cpp
+	<iostream>
+	"Vector.h"
+	"PointArr.h"
+
+1540892807 /home/ucsp/Escritorio/Clases/include/Vector.h
+	"Point.h"
+
+1540892807 /home/ucsp/Escritorio/Clases/include/Point.h
+
+1540892983 /home/ucsp/Escritorio/Clases/include/PointArr.h
+	"Point.h"
+
+1540892807 source:/home/ucsp/Escritorio/Clases/src/Point.cpp
+	"Point.h"
+	<iostream>
+
+1540892807 source:/home/ucsp/Escritorio/Clases/src/Vector.cpp
+	<iostream>
+	<math.h>
+	"Vector.h"
+
