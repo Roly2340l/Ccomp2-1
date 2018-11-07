@@ -1,0 +1,4 @@
+﻿  Juego.cpp
+c:\users\asus\desktop\proyecto final\alien attack\alien attack\juego.cpp(103): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\asus\desktop\proyecto final\alien attack\alien attack\juego.cpp(108): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Alien Attack.vcxproj -> C:\Users\Asus\Desktop\Proyecto Final\Alien Attack\Debug\Alien Attack.exe
