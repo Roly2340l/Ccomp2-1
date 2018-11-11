@@ -1,9 +1,0 @@
-﻿  main.cpp
-main.cpp(45): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-Game.obj : error LNK2005: ya se definió "public: class sf::Rect<int> const & __thiscall Animation::getFrame(unsigned int)const " (?getFrame@Animation@@QBEABV?$Rect@H@sf@@I@Z) en Animation.obj
-Game.obj : error LNK2005: ya se definió "public: unsigned int __thiscall Animation::getSize(void)const " (?getSize@Animation@@QBEIXZ) en Animation.obj
-Game.obj : error LNK2005: ya se definió "public: class sf::Texture const * __thiscall Animation::getSpriteSheet(void)const " (?getSpriteSheet@Animation@@QBEPBVTexture@sf@@XZ) en Animation.obj
-Game.obj : error LNK2005: ya se definió "public: void __thiscall Animation::setSpriteSheet(class sf::Texture const &)" (?setSpriteSheet@Animation@@QAEXABVTexture@sf@@@Z) en Animation.obj
-Game.obj : error LNK2005: ya se definió "public: void __thiscall Animation::addFrame(class sf::Rect<int>)" (?addFrame@Animation@@QAEXV?$Rect@H@sf@@@Z) en Animation.obj
-Game.obj : error LNK2005: ya se definió "public: __thiscall Animation::Animation(void)" (??0Animation@@QAE@XZ) en Animation.obj
-C:\Users\Jose Tito\Desktop\SFML\SFML\Release\SFML.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
