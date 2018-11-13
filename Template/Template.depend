@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1542117937 source:c:\users\alumno-g\desktop\template\main.cpp
+	<iostream>
+	"Poligono.h"
+	"PoligonoX.h"
+	"ArregloPoligonos.h"
+
+1542117928 c:\users\alumno-g\desktop\template\include\poligono.h
+	<iostream>
+
+1542117928 c:\users\alumno-g\desktop\template\include\poligonox.h
+	<iostream>
+
+1542118412 c:\users\alumno-g\desktop\template\include\arreglopoligonos.h
+	"Poligonox.h"
+
+1542118429 source:c:\users\alumno-g\desktop\template\src\arreglopoligonos.cpp
+	"ArregloPoligonos.h"
+
