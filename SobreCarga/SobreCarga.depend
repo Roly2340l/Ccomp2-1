@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1542723043 source:c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\main.cpp
+	<iostream>
+	"Vector.h"
+	"PointArr.h"
+
+1541584592 c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\vector.h
+	"Point.h"
+
+1541584592 c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\point.h
+
+1541584592 c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\pointarr.h
+	"Point.h"
+
+1541584592 source:c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\point.cpp
+	"Point.h"
+	<iostream>
+
+1541584592 source:c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\pointarr.cpp
+	<iostream>
+	"PointArr.h"
+
+1541584592 source:c:\users\alumno-g\desktop\ccomp1_2018-master\lab11\vector.cpp
+	<iostream>
+	<math.h>
+	"Vector.h"
+
+1541584592 source:c:\users\alumno-g\desktop\sobrecarga\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1542724396 c:\users\alumno-g\desktop\sobrecarga\include\point.h
+	<iostream>
+
+1541584592 source:c:\users\alumno-g\desktop\sobrecarga\src\pointarr.cpp
+	<iostream>
+	"PointArr.h"
+
+1542725982 c:\users\alumno-g\desktop\sobrecarga\include\pointarr.h
+	"Point.h"
+	<iostream>
+
+1541584592 source:c:\users\alumno-g\desktop\sobrecarga\src\vector.cpp
+	<iostream>
+	<math.h>
+	"Vector.h"
+
+1542724453 c:\users\alumno-g\desktop\sobrecarga\include\vector.h
+
+1542725038 source:c:\users\alumno-g\desktop\sobrecarga\main.cpp
+	<iostream>
+	"Vector.h"
+	"PointArr.h"
+
